@@ -4,7 +4,19 @@
 
 # Application mobile hybride E-commerce
  
- Ionic3, Angular7, Cordova, HTML5, SCSS, TypeScript, Firebase,API Facebook,API GooglePlus, API GoogleMap, API PAYPAL 
+       
+       * Ionic3
+       * Angular6
+       * Cordova
+       * HTML5
+       * SCSS
+       * TypeScript
+       * Firebase
+       * API Facebook
+       * API GooglePlus
+       * API GoogleMap
+       * API PAYPAL 
+
 
  
   <img src="https://i.ibb.co/3Wr2880/0.png" width="200">
